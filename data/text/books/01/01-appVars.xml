@@ -1,0 +1,19 @@
+<div xml:id="201">	
+
+    <app from="#101001.01">
+        <lem>Martis</lem>
+        <rdg wit='#F #Pa1 #V1 #W' type="ortographic">-artis</rdg>
+    </app>
+
+    <app from="#101003.05">
+        <lem>littus</lem>
+        <rdg wit="St" type="ortographic">litus</rdg>
+    </app>
+
+    <app from="#101008.06">
+		<lem>Martem</lem>
+		<rdg wit="#F" type="ortographic">matem</rdg>
+	</app>
+
+
+</div>
