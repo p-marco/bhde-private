@@ -2,8 +2,11 @@
     <div xml:id='BHDE-101.000' n='101.000' type='section'>
      	<l xml:id='l-1001' n='1001'>	
 		 	<app>
-		 		<lem wit='#M'>Martis</lem>
-				<rdg wit='#F #Pa1 #V1 #W' omitted="true" /> 
+		 		<lem>Martis</lem>
+		 		<rdg wit='#F #Pa1 #V1 #W'>
+					<span type='omittit'>M</span>
+				artis
+				</rdg>
 			</app>	 
 			et arma feri, et partum virtute triumphum 
 		</l>
@@ -12,6 +15,7 @@
 		 	<app>
 				<lem wit=''>littus</lem>
 				<rdg wit='#St'>litus</rdg>
+			</app>
 		 	Iberos 
 		</l>
      	<l xml:id='l-1004' n='1004'>	intrepidus; gentem neque enim periisse Latinam </l>
