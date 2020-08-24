@@ -2,7 +2,7 @@
 
     <app from="#101001.01">
         <lem>Martis</lem>
-        <rdg wit='#F #Pa1 #V1 #W' type="ortographic">-artis</rdg>
+        <rdg wit="#F #Pa1 #V1 #W" type="ortographic">-artis</rdg>
     </app>
 
     <app from="#101003.05">
@@ -12,8 +12,55 @@
 
     <app from="#101008.06">
 		<lem>Martem</lem>
-		<rdg wit="#F" type="ortographic">matem</rdg>
+		<rdg wit="#F" type="ortographic">
+            matem
+            <corr>Martem</corr>
+        </rdg>
 	</app>
 
+    <app from="#1010011.03">
+        <lem>veterumque</lem>
+        <rdg wit="#Ro"> vetusque</rdg>
+    </app>
+    
+    <app from="#1010013.04">
+        <lem>Garamantas</lem>
+        <rdg wit="#O"><
+            Garamanta
+            <corr>Garamantas</corr>
+        </rdg>
+    </app>
+
+    <app from="#1010017.04">
+        <lem>agitae</lem>
+        <rdg wit="#Pa2">
+            agitare
+            <corr>agitae</corr>
+        </rdg>
+    </app>
+    
+    <app from="#1010017.06">
+        <lem>irae</lem>
+        <rdg wit="#Pa2">
+            ira
+            <corr>irae</corr>
+        </rdg>
+    </app>
+
+    <app from="#1010020.05">
+        <lem>monere</lem>
+        <rdg wit="#V1">movere</rdg>
+    </app>
+
+
+    <app from="#1010021.03" to="#1010021.04">
+        <lem>facilis Latii</lem>
+        <rdg wit="#V1">inv.</rdg>
+    </app>
+
+    <app from="#1010037.04" to="#1010037.05">
+        <lem>inter se</lem>
+        <rdg wit="#F #Ro">interse</rdg>
+    </app>
 
 </div>
