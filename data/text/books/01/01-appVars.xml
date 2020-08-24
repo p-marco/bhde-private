@@ -63,4 +63,117 @@
         <rdg wit="#F #Ro">interse</rdg>
     </app>
 
+    <app from="#1010038.03">
+        <lem>demesso</lem>
+        <rdg wit="#V1">demisso</rdg>
+    </app>
+
+    <app from="#1010040.02">
+        <lem>dira</lem>
+        <rdg wit="#F">dirae</rdg>
+    </app>
+
+    <app from="#1010041.02">
+        <lem>quae</lem>
+        <rdg wit="#P2">
+            que 
+            <corr>quae</corr>
+        </rdg>
+    </app>
+
+    <app from="#1010041.05">
+        <lem>belli</lem>
+        <rdg wit="V1">bella</rdg>
+    </app>
+
+    <app from="#1010043.05">
+        <lem>Alphonsus</lem>
+        <rdg wit="#O">
+            <add place="margin">Alphonsus</add>
+        </rdg>
+    </app>
+
+    <app from="#1010041.07">
+        <lem>oras</lem>
+        <rdg wit="#F">horas</rdg>
+    </app>
+
+    <app from="#1010044.05">
+        <lem>littore</lem>
+        <rdg wit="#St">litore</rdg>
+    </app>
+
+    <app from="#1010047.02">
+        <lem>arcessit</lem>
+        <rdg wit="#Ro">accessit</rdg>
+    </app>
+
+    <app from="#1010048.05">
+        <lem>Cyllenia</lem>
+        <rdg wit="#F">Cyllennia</rdg>
+    </app>
+
+    <app from="#1010049.03" to="#1010049.06">
+        <lem>claroque celer delabere olympo</lem>
+        <rdg wit="#O"><unclear reason="illegible">/></rdg>
+    </app>
+
+
+    <app from="#1010050.05" to="#1010050.08">
+        <lem>terit, ea age longas</lem>
+        <rdg wit="#O"><unclear reason="illegible"/></rdg>
+    </app>
+
+    <app from="#1010050.06">
+        <lem>ea</lem>
+        <rdg wit="#V1">en</rdg>
+        <rdg wit="#St">eja</rdg>
+    </app>
+
+    <app from="#1010050.08">
+        <lem>longas</lem>
+        <rdg>???</rdg>
+    </app>
+
+    <app from="#1010051.04">
+        <lem>compellat</lem>
+        <rdg wit="#V1">compellet</rdg>
+    </app>
+
+    <app from="#1010054.04">
+        <lem>submiserit</lem>
+        <rdg wit="#V1">submisit</rdg>
+    </app>
+
+    <app from="#1010055.02" to="#1010055.03">
+        <lem>se seque</lem>
+        <rdg wit="#Pa1">se se <omitt>-que</omitt></rdg>
+    </app>
+
+    <app from="#1010056.01" to="#1010056.05">
+        <lem/>
+        <rdg wit="#O"><unclear reason="illegible"/></rdg>
+    </app>
+
+    <app from="#1010058.04">
+        <lem>ventosas</lem>
+        <rdg wit="#Ro">ventosos</rdg>
+    </app>
+
+    <app from="#1010061.02">
+        <lem>aethereas</lem>
+        <rdg wit="#F">aetherreas</rdg>
+    </app>
+
+    <app from="#1010063.01">
+        <lem>Contigit</lem>
+        <rdg wit="#Ro">contingit</rdg>
+    </app>
+
+    <app from="#1010065.05">
+        <lem>pectore</lem>
+        <rdg wit="#Ro">pectora</rdg>
+    </app>
+
+    
 </div>
