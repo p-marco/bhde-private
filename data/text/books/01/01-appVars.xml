@@ -1,179 +1,272 @@
-<div xml:id="201">	
+<div xml:id='201'>	
 
-    <app from="#101001.01">
+    <app from='#101001.01'>
         <lem>Martis</lem>
-        <rdg wit="#F #Pa1 #V1 #W" type="ortographic">-artis</rdg>
+        <rdg wit='#F #Pa1 #V1 #W' type='ortographic'>-artis</rdg>
     </app>
 
-    <app from="#101003.05">
+    <app from='#101003.05'>
         <lem>littus</lem>
-        <rdg wit="St" type="ortographic">litus</rdg>
+        <rdg wit='St' type='ortographic'>litus</rdg>
     </app>
 
-    <app from="#101008.06">
+    <app from='#101008.06'>
 		<lem>Martem</lem>
-		<rdg wit="#F" type="ortographic">
+		<rdg wit='#F' type='ortographic'>
             matem
             <corr>Martem</corr>
         </rdg>
 	</app>
 
-    <app from="#1010011.03">
+    <app from='#1010011.03'>
         <lem>veterumque</lem>
-        <rdg wit="#Ro"> vetusque</rdg>
+        <rdg wit='#Ro'> vetusque</rdg>
     </app>
     
-    <app from="#1010013.04">
+    <app from='#1010013.04'>
         <lem>Garamantas</lem>
-        <rdg wit="#O"><
-            Garamanta
-            <corr>Garamantas</corr>
-        </rdg>
+        <rdg wit='#O'>Garamanta <corr>Garamantas</corr></rdg>
     </app>
 
-    <app from="#1010017.04">
+    <app from='#101017.04'>
         <lem>agitae</lem>
-        <rdg wit="#Pa2">
-            agitare
-            <corr>agitae</corr>
-        </rdg>
+        <rdg wit='#Pa2'>agitare <corr>agitae</corr></rdg>
     </app>
     
-    <app from="#1010017.06">
+    <app from='#101017.06'>
         <lem>irae</lem>
-        <rdg wit="#Pa2">
-            ira
-            <corr>irae</corr>
-        </rdg>
+        <rdg wit='#Pa2'>ira <corr>irae</corr></rdg>
     </app>
 
-    <app from="#1010020.05">
+    <app from='#101020.05'>
         <lem>monere</lem>
-        <rdg wit="#V1">movere</rdg>
+        <rdg wit='#V1'>movere</rdg>
     </app>
 
 
-    <app from="#1010021.03" to="#1010021.04">
+    <app from='#101021.03' to='#1010021.04'>
         <lem>facilis Latii</lem>
-        <rdg wit="#V1">inv.</rdg>
+        <rdg wit='#V1'>inv.</rdg>
     </app>
 
-    <app from="#1010037.04" to="#1010037.05">
+    <app from='#101037.04' to='#1010037.05'>
         <lem>inter se</lem>
-        <rdg wit="#F #Ro">interse</rdg>
+        <rdg wit='#F #Ro'>interse</rdg>
     </app>
 
-    <app from="#1010038.03">
+    <app from='#101038.03'>
         <lem>demesso</lem>
-        <rdg wit="#V1">demisso</rdg>
+        <rdg wit='#V1'>demisso</rdg>
     </app>
 
-    <app from="#1010040.02">
+    <app from='#101040.02'>
         <lem>dira</lem>
-        <rdg wit="#F">dirae</rdg>
+        <rdg wit='#F'>dirae</rdg>
     </app>
 
-    <app from="#1010041.02">
+    <app from='#101041.02'>
         <lem>quae</lem>
-        <rdg wit="#P2">
+        <rdg wit='#P2'>
             que 
             <corr>quae</corr>
         </rdg>
     </app>
 
-    <app from="#1010041.05">
+    <app from='#101041.05'>
         <lem>belli</lem>
-        <rdg wit="V1">bella</rdg>
+        <rdg wit='V1'>bella</rdg>
     </app>
 
-    <app from="#1010043.05">
+    <app from='#101043.05'>
         <lem>Alphonsus</lem>
-        <rdg wit="#O">
-            <add place="margin">Alphonsus</add>
-        </rdg>
+        <rdg wit='#O'><add place='margin'>Alphonsus</add></rdg>
     </app>
 
-    <app from="#1010041.07">
+    <app from='#101041.07'>
         <lem>oras</lem>
-        <rdg wit="#F">horas</rdg>
+        <rdg wit='#F'>horas</rdg>
     </app>
 
-    <app from="#1010044.05">
+    <app from='#101044.05'>
         <lem>littore</lem>
-        <rdg wit="#St">litore</rdg>
+        <rdg wit='#St'>litore</rdg>
     </app>
 
-    <app from="#1010047.02">
+    <app from='#101047.02'>
         <lem>arcessit</lem>
-        <rdg wit="#Ro">accessit</rdg>
+        <rdg wit='#Ro'>accessit</rdg>
     </app>
 
-    <app from="#1010048.05">
+    <app from='#101048.05'>
         <lem>Cyllenia</lem>
-        <rdg wit="#F">Cyllennia</rdg>
+        <rdg wit='#F'>Cyllennia</rdg>
     </app>
 
-    <app from="#1010049.03" to="#1010049.06">
+    <app from='#101049.03' to='#101049.06'>
         <lem>claroque celer delabere olympo</lem>
-        <rdg wit="#O"><unclear reason="illegible">/></rdg>
+        <rdg wit='#O'><unclear reason='illegible'></rdg>
     </app>
 
 
-    <app from="#1010050.05" to="#1010050.08">
+    <app from='#101050.05' to='#101050.08'>
         <lem>terit, ea age longas</lem>
-        <rdg wit="#O"><unclear reason="illegible"/></rdg>
+        <rdg wit='#O'><unclear reason='illegible'/></rdg>
     </app>
 
-    <app from="#1010050.06">
+    <app from='#101050.06'>
         <lem>ea</lem>
-        <rdg wit="#V1">en</rdg>
-        <rdg wit="#St">eja</rdg>
+        <rdg wit='#V1'>en</rdg>
+        <rdg wit='#St'>eja</rdg>
     </app>
 
-    <app from="#1010050.08">
+    <app from='#101050.08'>
         <lem>longas</lem>
         <rdg>???</rdg>
     </app>
 
-    <app from="#1010051.04">
+    <app from='#101051.04'>
         <lem>compellat</lem>
-        <rdg wit="#V1">compellet</rdg>
+        <rdg wit='#V1'>compellet</rdg>
     </app>
 
-    <app from="#1010054.04">
+    <app from='#101054.04'>
         <lem>submiserit</lem>
-        <rdg wit="#V1">submisit</rdg>
+        <rdg wit='#V1'>submisit</rdg>
     </app>
 
-    <app from="#1010055.02" to="#1010055.03">
+    <app from='#101055.02' to='#101055.03'>
         <lem>se seque</lem>
-        <rdg wit="#Pa1">se se <omitt>-que</omitt></rdg>
+        <rdg wit='#Pa1'>se se <omitt>-que</omitt></rdg>
     </app>
 
-    <app from="#1010056.01" to="#1010056.05">
+    <app from='#1010056.01' to='#101056.05'>
         <lem/>
-        <rdg wit="#O"><unclear reason="illegible"/></rdg>
+        <rdg wit='#O'><unclear reason='illegible'/></rdg>
     </app>
 
-    <app from="#1010058.04">
+    <app from='#101058.04'>
         <lem>ventosas</lem>
-        <rdg wit="#Ro">ventosos</rdg>
+        <rdg wit='#Ro'>ventosos</rdg>
     </app>
 
-    <app from="#1010061.02">
+    <app from='#101061.02'>
         <lem>aethereas</lem>
-        <rdg wit="#F">aetherreas</rdg>
+        <rdg wit='#F'>aetherreas</rdg>
     </app>
 
-    <app from="#1010063.01">
+    <app from='#101063.01'>
         <lem>Contigit</lem>
-        <rdg wit="#Ro">contingit</rdg>
+        <rdg wit='#Ro'>contingit</rdg>
     </app>
 
-    <app from="#1010065.05">
+    <app from='#101065.05'>
         <lem>pectore</lem>
-        <rdg wit="#Ro">pectora</rdg>
+        <rdg wit='#Ro'>pectora</rdg>
     </app>
 
+<app from='#101067.06'>
+    <lem>tibi</lem>
+    <rdg wit='#Ro'>titibi</rdg>
+</app>
     
+<app from='#101072.04'>
+    <lem>sermone</lem>
+    <rdg wit='#Ro'><em>iter.</em></rdg>
+</app>
+
+<app from='#101074.03'>
+    <lem>curis</lem>
+    <rdg wit='#Ro'>euris <em>ut vid.</em></rdg>
+</app>
+
+<app from='#101074.04'>
+    <lem>tum</lem>
+    <rdg wit='#P'>cum</rdg>
+</app>
+
+<app from='#101075.07'>
+    <lem>retrectat</lem>
+    <rdg wit='#F'>retractat</rdg>
+    <rdg wit='#V2'><add place='margin'>retrenctat</add></rdg>
+</app>
+
+<app from='101082.01'>
+    <lem>purpureo</lem>
+    <rdg wit='#F'>purpereo</rdg>
+</app>
+
+<app from='#101082.02'>
+    <lem>chlamydemque</lem>
+    <rdg wit='#V1'>chlamydem</rdg>
+</app>
+
+<app from='#101087.06'>
+    <lem>tradidit</lem>
+    <rdg wit='#V1'>traddidit</rdg>
+</app>
+
+<app from='#101090.05'>
+    <lem>Pandulphius</lem>
+    <rdg wit='#P'>Panduphius</rdg>
+</app>
+
+<app from='#101092.02'>
+    <lem>Eurybromumque</lem>
+    <rdg wit='#P2'><corr place='ras'>Eurybromumque</corr></rdg>
+    <rdg wit='#Ro'>erybromumque</rdg>
+</app>
+
+<app from='#101092.04'>
+    <lem>quis</lem>
+    <rdg wit='#F'><add place='sup. lin.'>quis</add></rdg>
+    <rdg wit='#St'>queis</rdg>
+</app>
+
+<app from='#101095.05'>
+    <lem>pelagusve</lem>
+    <rdg wit='#V1'>pelagusque</rdg>
+</app>
+
+<app from='#101096.07'>
+    <lem>aequum</lem>
+    <rdg wit='#O'>equum</rdg>
+    <rdg wit='#Pa2'><corr>aequum</corr></rdg>
+</app>
+
+<app from='#101102.01'>
+    <lem>sollicitant</lem>
+    <rdg wit='#Pa2'><corr place='ras.'/></rdg>
+</app>
+<app from='101103.01'>
+    <lem>Caedat</lem>
+    <rdg wit='#F #Pa2 #V #W'>cedat</rdg>
+</app>
+
+<app from='#101104.03'>
+    <lem>Meonias</lem>
+    <rdg wit='#F #O #Ro'>Moeonias</rdg>
+</app>
+
+<app from='101105.06'>
+    <lem>contemnere</lem>
+    <rdg wit='#P2'>cotemnere P2</rdg>
+    <rdg wit='#O #Ro'>contempnere</rdg>
+    <rdg wit='#W'><em>p exp.</em></rdg>
+</app>
+
+<app from='#101107.01' to='#101107.07'>
+    <lem>Donec ~ oras</lem>
+    <rdg wit='#O'><unclear reason='illegible'></rdg>
+</app>
+
+<app from='101107.05'>
+    <lem>Taraconis</lem>
+    <rdg wit='#O'><add place='margin'>Taraconjis</add></rdg>
+</app>
+
+<app from='101109.02'>
+    <lem>oceano</lem>
+    <rdg wit='#Ro'>occeano</rdg>
+</app>
+
 </div>
