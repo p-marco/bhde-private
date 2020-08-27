@@ -9,8 +9,8 @@
 		"prefix": "app",
 		"body": [
 			"<app from='$1'>"
-			"	<lem></lem>"
-			"	<rdg wit=''></rdg>"
+			"	<lem>$2</lem>"
+			"	<rdg wit='$3'>$4</rdg>"
 			"</app>",
 		],
 		"description": "Log output to console"

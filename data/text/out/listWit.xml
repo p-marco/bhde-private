@@ -6,7 +6,7 @@
     <witness xml:id='P'> MS 630  </witness>
     <witness xml:id='Pa1'> Parmense 337 </witness>
     <witness xml:id='Pa2'> Parmense 1066 </witness>
-    <witness xml:id='Pa3'>  Parmense 1076 </witness>
+    <witness xml:id='Pa3'> Parmense 1076 </witness>
     <witness xml:id='Ro'> MS 1328  </witness>
     <witness xml:id='V1'> Vat. Lat. 1677 </witness>
     <witness xml:id='V2'> Vat. Lat. 6043 </witness>
@@ -14,8 +14,8 @@
     
     <witness xml:id='R'> MS SC 67  
         <listWit>
-            <witness xml:id='R1'>  </witness>
-            <witness xml:id='R2'>  </witness>
+            <witness xml:id='R1'> R1 </witness>
+            <witness xml:id='R2'> R2 </witness>
         </listWit>
     </witness>
     

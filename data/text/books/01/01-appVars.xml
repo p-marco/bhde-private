@@ -259,14 +259,149 @@
         <rdg wit='#O'><unclear reason='illegible'></rdg>
     </app>
 
-    <app from='101107.05'>
+    <app from='#101107.05'>
         <lem>Taraconis</lem>
         <rdg wit='#O'><add place='margin'>Taraconjis</add></rdg>
     </app>
 
-    <app from='101109.02'>
+    <app from='#101109.02'>
         <lem>oceano</lem>
         <rdg wit='#Ro'>occeano</rdg>
     </app>
+
+	<app from='#101112.03'>
+        <lem>magna</lem>
+        <rdg wit='#P'>magni</rdg>
+    </app>
+
+	<app from='#101114.06'>
+        <lem>Apollo</lem>
+        <rdg wit='#P'><corr/></rdg>
+    </app>
+
+	<app from='#101116.03'>
+        <lem>Ortygiae</lem>
+        <rdg wit='#Pa2'><corr/></rdg>
+    </app>
+
+	<app from='#101118.02'>
+        <lem>altaeque</lem>
+        <rdg wit='#P2'>#altaque <em>sed corr.</em></rdg>
+    </app>
+
+	<app from='#101118.05'>
+        <lem>Romae</lem>
+        <rdg wit='#Ro'>Rome</rdg>
+    </app>
+
+	<app from='#101119.01'>
+        <lem>Ipse</lem>
+        <rdg wit='#Ro'>Ispse</rdg>
+    </app>
+
+
+	<app from='#101128.01'>
+        <lem>murmuraque</lem>
+        <rdg wit='#F'>murmura <em>sed add. r. sup. lin.</em></rdg>
+    </app>
+
+    <app from='#101128.03'>
+        <lem>rabidoque</lem>
+        <rdg wit='#O #Ro'>rapidoque</rdg>
+        <rdg wit='#V1 #V2'>rapidoque <corr>rabidoque</corr></rdg>
+    </app>
+
+	<app from='#101130.04'>
+        <lem>feram</lem>
+        <rdg wit='#Pa2'>fera<corr/></rdg>
+    </app>
+
+	<app from='#101133.03'>
+        <lem>Italiae</lem>
+        <rdg wit='#P'>Italie <corr/></rdg>
+    </app>
+
+    <app from='#101136.05'>
+        <lem>secundans</lem>
+        <rdg wit='#Ro'>secondas</rdg>
+    </app>
+
+    <app from='#101138.06'>
+        <lem>Medusae</lem>
+        <rdg wit='#P'>Meduse <corr/></rdg>
+    </app>
+
+    <app from='#101139.03'>
+        <lem>aeratis</lem>
+        <rdg wit='#Pa2'>eratis <corr/></rdg>
+        <rdg wit='#F'>e ratis</rdg>
+        <rdg wit='#V1'>aetatis <corr place='sup. lin'>aeratis</corr></rdg>
+    </app>
+
+    <app from='#101143.05'>
+        <lem>carosve</lem>
+        <rdg wit='#St'>carosque</rdg>
+    </app>
+
+    <app from='#101147.08'>
+        <lem>anhelas</lem>
+        <rdg wit='#V1'>anelans</rdg>
+    </app>
+
+    <app from='#101148.02'>
+        <lem>late</lem>
+        <rdg wit='#O'>latae <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101150.05'>
+        <lem>hinc</lem>
+        <rdg wit='#Ro'>hunc</rdg>
+    </app>
+
+    <app from='#101151.03'>
+        <lem>aere</lem>
+        <rdg wit='#O'>aerae</rdg>
+        <rdg wit='#F'>aerae <corr/></rdg>
+        <rdg wit='#Pa2'>ere <corr/></rdg>
+    </app>
+
+    <app from='#101153.04'>
+        <lem>flammis</lem>
+        <rdg wit='#V1'>flamis</rdg>
+    </app>
+
+    <app from='#101153.06'>
+        <lem>refusis</lem>
+        <rdg wit='#Ro'>refulsis</rdg>
+        <rdg wit='#O'>refulsis <corr/></rdg>
+    </app>
+
+    <app from='#101154.03'>
+        <lem>innumerae</lem>
+        <rdg wit='#Pa2'>innumere <corr>innumerae</corr></rdg>
+    </app>
+
+    <app from='#101158.01' to='101158.02'>
+        <lem>cygnorum ve</lem>
+        <rdg wit='#St'>cygnorum ut</rdg>
+    </app>
+
+    <app from='#101165.04'>
+        <lem>permulta</lem>
+        <rdg wit='#O #P #W'>per multa</rdg>
+    </app>
+
+    <app from='#101174.07'>
+        <lem>saxa</lem>
+        <rdg wit='#Ro'>saxasa</rdg>
+    </app>
+
+    <app from='#101174.08'>
+        <lem>sequuntur</lem>
+        <rdg wit='#V1'>secuntur</rdg>
+    </app>
+
+
+
 
 </div>
