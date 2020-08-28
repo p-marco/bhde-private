@@ -401,6 +401,146 @@
         <rdg wit='#V1'>secuntur</rdg>
     </app>
 
+    <app from='#101175.02'>
+        <lem>undae</lem>
+        <rdg wit='#O #Ro'>unde</rdg>
+        <rdg wit='#Pa2'>unde <corr/></rdg>
+    </app>
+
+    <app from='#101177.02'>
+        <lem>caelo</lem>
+        <rdg wit='#Pa2'>celo <corr>caelo</corr></rdg>
+    </app>
+
+    <app from='#101178.03'>
+        <lem>iussa</lem>
+        <rdg wit='#Ro'>iusaa <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101181.08'>
+        <lem>iubavat</lem>
+        <rdg wit='#Ro'>iubat <em>sed. add. sup. lin.</em> va </rdg>
+    </app>
+
+    <app from='#101183.06'>
+        <lem>decorum</lem>
+        <rdg wit='#V1'>deorum</rdg>
+    </app>
+
+    <app from='#101186.03'>
+        <lem>placidae</lem>
+        <rdg wit='#Pa2'>placide <corr/></rdg>
+    </app>
+
+    <app from='#101187.03'>
+        <lem>ambrosium</lem>
+        <rdg wit='#Ro'>ambrosum</rdg>
+    </app>
+
+    <app from='#101189.05'>
+        <lem>languoribus</lem>
+        <rdg wit='#St'>langoribus <em> codd., emend.</em></rdg>
+    </app>
+
+    <app from='#101193.02'>
+        <lem>pius</lem>
+        <rdg wit='#Ro'>prius</rdg>
+    </app>
+
+    <app from='#101193.07'>
+        <lem>urbis</lem>
+        <rdg wit='#Pa1'>urbes <corr place='ras.'><em>corr in ras.</em></corr></rdg>
+    </app>
+
+    <app from='#101195.04'>
+        <lem>Lydorum</lem>
+        <rdg wit='#O'>Lydi <em>al. m. add. in mg.</em></rdg>
+    </app>
+
+    <app from='#101196.04'>
+        <lem>iuveni</lem>
+        <rdg wit='#W'><em>del. et scrip.</em></rdg>
+    </app>
+
+    <app from='#101201.01'>
+        <lem>Aeternos</lem>
+        <rdg wit='#Ro'>externos</rdg>
+    </app>
+
+    <app from='#101202.01'>
+        <lem>Pasitheae</lem>
+        <rdg wit='#Ro'>Pasiththee <corr/></rdg>
+    </app>
+
+    <app from='#101206.05'>
+        <lem>torporibus</lem>
+        <rdg wit='#V1'>corporibus</rdg>
+    </app>
+
+    <app from='#101207.04'>
+        <lem>sensim</lem>
+        <rdg wit='#W'>sensum</rdg>
+    </app>
+
+    <app from='#101211.01'>
+        <lem>factaque</lem>
+        <rdg wit='Ro'>fastaque</rdg>
+    </app>
+
+    <app from='#101212.06'>
+        <lem>videntem</lem>
+        <rdg wit='#V1'><em>corr. et add. in mg.</em></rdg>
+    </app>
+
+    <app from='#101215.04'>
+        <lem>defudit</lem>
+        <rdg wit='#P'>defundit</rdg>
+    </app>
+
+    <app from='#101219.04'>
+        <lem>aliud</lem>
+        <rdg wit='#Ro'>alidud</rdg>
+    </app>
+
+    <app from='#101223.06'>
+        <lem>armis</lem>
+        <rdg wit='#V1'>heros <corr place='margin'>armis</corr></rdg>
+    </app>
+
+    <app from='#101224.04'>
+        <lem>serae</lem>
+        <rdg wit='#P'>saere</rdg>
+    </app>
+
+    <app from='#101225.03'>
+        <lem>misso</lem>
+        <rdg wit='#V1'>stilo <corr/></rdg>
+    </app>
+
+    <app from='#101228.05' to='#101228.06'>
+        <lem>te ferre</lem>
+        <rdg wit='#St'>referre</rdg>
+    </app>
+
+    <app from='#101229.02'>
+        <lem>homo</lem>
+        <rdg wit='V1'>humo</rdg>
+    </app>
+
+    <app from='#101230.05'>
+        <lem>vescier</lem>
+        <rdg wit='#W'>nescier</rdg>
+        <rdg wit='#Pa1'><em>in ras.</em></rdg>
+    </app>
+
+    a
+
+
+
+
+
+
+
 
 
 
