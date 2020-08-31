@@ -12,10 +12,7 @@
 
     <app from='#101008.06'>
 		<lem>Martem</lem>
-		<rdg wit='#F' type='ortographic'>
-            matem
-            <corr>Martem</corr>
-        </rdg>
+		<rdg wit='#F' type='ortographic'>matem <corr>Martem</corr></rdg>
 	</app>
 
     <app from='#1010011.03'>
@@ -104,7 +101,7 @@
 
     <app from='#101049.03' to='#101049.06'>
         <lem>claroque celer delabere olympo</lem>
-        <rdg wit='#O'><unclear reason='illegible'></rdg>
+        <rdg wit='#O'><unclear reason='illegible'/></rdg>
     </app>
 
 
@@ -256,7 +253,7 @@
 
     <app from='#101107.01' to='#101107.07'>
         <lem>Donec ~ oras</lem>
-        <rdg wit='#O'><unclear reason='illegible'></rdg>
+        <rdg wit='#O'><unclear reason='illegible'/></rdg>
     </app>
 
     <app from='#101107.05'>
@@ -270,8 +267,8 @@
     </app>
 
 	<app from='#101112.03'>
-        <lem>magna</lem>
-        <rdg wit='#P'>magni</rdg>
+        <lem>magni</lem>
+        <rdg wit='#P'>magna</rdg>
     </app>
 
 	<app from='#101114.06'>
@@ -281,12 +278,12 @@
 
 	<app from='#101116.03'>
         <lem>Ortygiae</lem>
-        <rdg wit='#Pa2'><corr/></rdg>
+        <rdg wit='#Pa2'>Ortygie<corr>Ortygiae</corr></rdg>
     </app>
 
 	<app from='#101118.02'>
         <lem>altaeque</lem>
-        <rdg wit='#P2'>#altaque <em>sed corr.</em></rdg>
+        <rdg wit='#P2'>altaque <corr>altaeque</corr></rdg>
     </app>
 
 	<app from='#101118.05'>
@@ -302,7 +299,7 @@
 
 	<app from='#101128.01'>
         <lem>murmuraque</lem>
-        <rdg wit='#F'>murmura <em>sed add. r. sup. lin.</em></rdg>
+        <rdg wit='#F'>mumura <corr place='sup. lin.'>murmuraque</corr></rdg>
     </app>
 
     <app from='#101128.03'>
@@ -533,7 +530,273 @@
         <rdg wit='#Pa1'><em>in ras.</em></rdg>
     </app>
 
-    a
+    <app from='#101237.04' to='#101237.06'>
+        <lem>cuncti quod cuique</lem>
+        <rdg wit='#Ro'>cunctique quod cuique</rdg>
+    </app>
+
+    <app from='#101242.04'>
+        <lem>anhelitus</lem>
+        <rdg wit='#V1'>anhelitis <corr>-tus</corr></rdg>
+    </app>
+
+    <app from='#101251.06'>
+        <lem>annus</lem>
+        <rdg wit='#Ro'>annis</rdg>
+    </app>
+
+    <app from='#101252.01'>
+        <lem>imperio</lem>
+        <rdg wit='#V1'>impero</rdg>
+    </app>
+
+    <app from='#101256.04' to='#101256.06'>
+        <lem>populis conferre Latinos</lem>
+        <rdg wit='#P1'>populis latinis</rdg>
+        <rdg wit='#Pa1'><corr place='ras.'></corr></rdg>
+        <rdg wit='St'><corr>populos</corr></rdg>
+    </app>
+
+    <app from='#101260.02'>
+        <lem>deus</lem>
+        <rdg wit='#W'>decus</rdg>
+    </app>
+
+    <app from='#101262.03'>
+        <lem>ille</lem>
+        <rdg wit='#F'><em>add sup. lin.</em></rdg>
+    </app>
+
+    <app from='#101282.04'>
+        <lem>virum</lem>
+        <rdg wit='#Ro'><em>om.</em></rdg>
+    </app>
+
+    <app from='#101300.03'>
+        <lem>magni</lem>
+        <rdg wit='V1'>magnis</rdg>
+    </app>
+
+    <app from='#101306.01'>
+        <lem>multigenumque</lem>
+        <rdg wit='#F'><add place='sup. lin.'>-que</add></rdg>
+    </app>
+
+    <app from='#101307.03'>
+        <lem>periere</lem>
+        <rdg wit='#W'>pariere</rdg>
+        <rdg wit='#F'>pariere <corr>periere</corr></rdg>
+    </app>
+
+    <app from='#101309.02' to='101309.03'>
+        <lem>ut fulvo</lem>
+        <rdg wit='#W'><em>iter sed. corr.</em></rdg>
+    </app>
+
+    <app from='#101309.04'>
+        <lem>radiarent</lem>
+        <rdg wit='#Ro'>radiabant <corr/></rdg>
+    </app>
+
+    <app from='#101319.03'>
+        <lem>animos</lem>
+        <rdg wit='#St'>animis <em>emend.</em></rdg>
+    </app>
+    
+    <app from='#101323.02'>
+        <lem>illos</lem>
+        <rdg wit='#V1'>alios</rdg>
+    </app>
+
+    <app from='#101326.07'>
+        <lem>exurgit</lem>
+        <rdg wit='#Ro'>surgit</rdg>
+    </app>
+
+    <app from='#101327.03'>
+        <lem>rapidi</lem>
+        <rdg wit='#V1'>rabidi ??? <em>sed corr.</em></rdg>
+    </app>
+
+    <app from='#101333.05'>
+        <lem>scaevos</lem>
+        <rdg wit='#F #V1 #W'>saevos</rdg>
+        <rdg wit='#P'>saevos</rdg>
+    </app>
+
+    <app from='#101340.04'>
+        <lem>Antiphaten</lem>
+        <rdg wit='#F'>Antipha tem <corr/></rdg>
+        <rdg wit='#O'>Antiphates <add place='margin'/></rdg>
+        <rdg wit='#Ro'>Antiphates <corr/></rdg>
+    </app>
+
+    <app from='#101343.04'>
+        <lem>magnae</lem>
+        <rdg wit='#O #Ro'>magne</rdg>
+    </app>
+
+    <app from='#101354.03'>
+        <lem>miserere</lem>
+        <rdg wit='#V1'>misere</rdg>
+    </app>
+
+    <app from='#101355.04'>
+        <lem>nobilis</lem>
+        <rdg wit='#V1'>nobis <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101358.02'>
+        <lem>dehisce</lem>
+        <rdg wit='#Ro'>dehiscet <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101358.07'>
+        <lem>umbras</lem>
+        <rdg wit='#Ro V1'>undras <corr/></rdg>
+    </app>
+
+    <app from='#101361.08'>
+        <lem>potentes</lem>
+        <rdg wit='#Ro'>potentetes <em>sed del. -te- </em></rdg>
+    </app>
+
+    <app from='#101364.06'>
+        <lem>cum</lem>
+        <rdg wit='#W'>cur</rdg>
+    </app>
+
+    <app from='#101376.04'>
+        <lem>committere</lem>
+        <rdg wit='#Ro'>comittere</rdg>
+    </app>
+
+    <app from='#101377.03'>
+        <lem>morae</lem>
+        <rdg wit='#Ro'>more <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101377.05'>
+        <lem>maneant</lem>
+        <rdg wit='#P #Pa1 #V1'>maneat</rdg>
+    </app>
+
+    <app from='#101380.06'>
+        <lem>futuris</lem>
+        <rdg wit='#St'>faturis <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101381.02'>
+        <lem>tamen</lem>
+        <rdg wit='#St'><corr/></rdg>
+    </app>
+
+    <app from='#101381.03'>
+        <lem>arguerim</lem>
+        <rdg wit='#V1'><corr/></rdg>
+    </app>
+
+    <app from='#101383.05'>
+        <lem>hinc</lem>
+        <rdg wit='#St'>hic</rdg>
+    </app>
+
+    <app from='#101385.01'>
+        <lem>atque</lem>
+        <rdg wit='#St'>aque</rdg>
+    </app>
+
+    <app from='#101385.05'>
+        <lem>ut</lem>
+        <rdg wit='#Ro'><em>om</em></rdg>
+    </app>
+
+    <app from='#101385.06'>
+        <lem>omina</lem>
+        <rdg wit='#F #Ro #V1 #W'>omnia</rdg>
+    </app>
+
+    <app from='#101389'>
+        <lem>Nec ~ ignis</lem>
+        <rdg wit='#F'><em>iter. sed expun.</em></rdg>
+    </app>
+
+    <app from='#101390.01'>
+        <lem>Iasius</lem>
+        <rdg wit='#L #P'>Lasius <em>sed eras.</em></rdg>
+    </app> 
+
+    <app from='#101392.06'>
+        <lem>plurima</lem>
+        <rdg wit='#V1'>maxima <corr place='sup. lin.'/></rdg>
+    </app>
+
+    <app from='#101393.03'>
+        <lem>et</lem>
+        <rdg wit='#F'><add place='sup. lin.'/></rdg>
+    </app>
+
+    <app from='#101393.06'>
+        <lem>cacumine</lem>
+        <rdg wit='#V1'>cacumina</rdg>
+    </app>
+
+    <app from='#101394.03'>
+        <lem>summo</lem>
+        <rdg wit='V1'>somno <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101395.01' to='#101395.02'>
+        <lem>vertice quae</lem>
+        <rdg wit='#Ro'>vertice que <corr/></rdg>
+    </app>
+
+    <app from='101397.03'>
+        <lem>latens</lem>
+        <rdg wit='V1'>lateris <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101398.02'>
+        <lem>septeno</lem>
+        <rdg wit='#Ro'><corr/></rdg>
+    </app>
+
+    <app from='#101400.05'>
+        <lem>iuncta</lem>
+        <rdg wit='#St'><em>coniec.</em> victa <em>mmss.</em></rdg>
+    </app>
+
+    <app from='#101404.07'>
+        <lem>perstat</lem>
+        <rdg wit='#Ro'>prestat</rdg>
+    </app>
+
+    <app from='#101408.04'>
+        <lem>septenaque</lem>
+        <rdg wit='#Ro'>setepna <em>sed corr. et add. p sup. lin</em></rdg>
+    </app>
+
+    <app from='#101409.01'>
+        <lem>quis</lem>
+        <rdg wit='#St'>queis</rdg>
+    </app>
+
+    <app from='#101414.05'>
+        <lem>exaequarimus</lem>
+        <rdg wit='#W #St'>exaequavimus</rdg>
+    </app>
+
+    <app from='#101418.04'>
+        <lem>longae</lem>
+        <rdg wit='#O #P #Ro #V2'>longe</rdg>
+    </app>
+
+    <app from='#101419.01'>
+        <lem>Pigmaeis</lem>
+        <rdg wit='#Ro'>Pigameis</rdg>
+    </app>
+
+    
 
 
 
