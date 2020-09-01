@@ -796,6 +796,202 @@
         <rdg wit='#Ro'>Pigameis</rdg>
     </app>
 
+    <app from='#101420.01'>
+        <lem>Ast</lem>
+        <rdg wit='#V1'>At</rdg>
+    </app>
+
+    <app from='#101421.04'>
+        <lem>pulchris</lem>
+        <rdg wit='V1'>validis</rdg>
+    </app>
+
+    <app from='#101424.02'>
+        <lem>ventos</lem>
+        <rdg wit='#Ro'><em>om.</em></rdg>
+    </app>
+
+    <app from='#101426.02'>
+        <lem>adeo</lem>
+        <rdg wit='#St'>ad eo</rdg>
+    </app>
+
+    <app from='#101426.03'>
+        <lem>vicinae</lem>
+        <rdg wit='#Ro'>vicine</rdg>
+    </app>
+
+    <app from='#101429.01' to='#101430.05'>
+        <lem>aërio ~ uterque</lem>
+        <rdg wit='#Ro'>et meliorem nocte latroni / pastorique gravem <em>om.</em></rdg>
+    </app>
+
+    <app from='#101432' to='101434'>
+        <lem></lem>
+        <rdg wit='#Ro'><em>om.</em></rdg>
+    </app>
+
+    <app from='#101435.01'>
+        <lem>it</lem>
+        <rdg wit='#Pa2'><corr place='ras.'/></rdg>
+    </app>
+
+    <app from='#101442.02'>
+        <lem>haec</lem>
+        <rdg wit='#F'><add place='margin'/></rdg>
+    </app>
+
+    <app from='#101442.03'>
+        <lem>Hesperidae</lem>
+        <rdg wit='#Ro'>experidae</rdg>
+        <rdg wit='#O'>experide</rdg>
+    </app>
+
+    <app from='#101443.02'>
+        <lem>haec</lem>
+        <rdg wit='#O #Ro'><em>om. et add. in mg.</em></rdg>
+    </app>
+
+    <app from='#101444.04'>
+        <lem>redeant</lem>
+        <rdg wit='#V2'>redeat</rdg>
+    </app>
+
+    <app from='#101445.02'>
+        <lem>Celtae</lem>
+        <rdg wit='#Ro'>Caeltae <corr>Celtae</corr></rdg>
+    </app>
+
+    <app from='#101446.01' to='#101446.02'>
+        <lem>Sin me</lem>
+        <rdg wit='#Ro'><corr/></rdg>
+    </app>
+
+    <app from='#101450.04'>
+        <lem>letum</lem>
+        <rdg wit='#O'>laetum <corr/></rdg>
+        <rdg wit='#Ro'><unclear reason='illegible'/></rdg>
+    </app>
+
+    <app from='#101451.05'>
+        <lem>stupuere</lem>
+        <rdg wit='#St'>strepuere</rdg>
+    </app>
+
+    <app from='#101452.02' to='#101452.03'>
+        <lem>inter dictis</lem>
+        <rdg wit='#F #O #Pa1 #Ro #W'>interdictis</rdg>
+    </app>
+
+    <app from='#101452.06'>
+        <lem>effatus</lem>
+        <rdg wit='#V1'>affatus</rdg>
+    </app>
+
+    <app from='#101457.02'>
+        <lem>Ausoniique</lem>
+        <rdg wit='#Pa2'><add place='margin'/></rdg>
+    </app>
+
+    <app from='#101460.05' to='#101460.06'>
+        <lem>ne quis</lem>
+        <rdg wit=''>nequis</rdg>
+    </app>
+
+    <app from='#101465.06'>
+        <lem>humo</lem>
+        <rdg wit='#O #Ro #V2'>humi</rdg>
+    </app>
+
+    <app from='#101472.01'>
+        <lem>succintam</lem>
+        <rdg wit='#Ro'><em>c. add. sup. lin. </em></rdg>
+    </app>
+
+    <app from='#101476.02'>
+        <lem>tegere</lem>
+        <rdg wit='#O'>regere</rdg>
+    </app>
+
+    <app from='#101478.03' to='#101478.07'>
+        <lem>equo ~ hostem</lem>
+        <rdg wit='#W'><em>scrips. in ras.</em></rdg>
+    </app>
+
+    <app from='#101478.07'>
+        <lem>hostem</lem>
+        <rdg wit='#F'>hoste <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101480.05' to='#101480.07'>
+        <lem>te te arcana</lem>
+        <rdg wit='#F'>te arcana <em> te add. sup. lin.</em></rdg>
+    </app>
+
+    <app from='#101481.06'>
+        <lem>sententia</lem>
+        <rdg wit='#F'><corr/></rdg>
+    </app>
+
+    <app from='#101483.05'>
+        <lem>sancta</lem>
+        <rdg wit='#St'>sacra</rdg>
+    </app>
+
+    <app from='#101488.03'>
+        <lem>mihi</lem>
+        <rdg wit='#V1'><corr></rdg>
+    </app>
+
+    <app from='#101496.03'>
+        <lem>aeripedem</lem>
+        <rdg wit='#Ro'>ae<add place='sup.lin.'>ri</add>pedem</rdg>
+    </app>
+
+    <app from='#101498.05'>
+        <lem>aere</lem>
+        <rdg wit='#Ro'><add place='margin'>aere</add></rdg>
+    </app>
+
+    <app from='#101498.06'>
+        <lem>micantis</lem>
+        <rdg wit='#Pa1'><corr/></rdg>
+    </app>
+
+    <app from='#101499.07'>
+        <lem>agmina</lem>
+        <rdg wit='#Ro'>amgmina</rdg>
+    </app>
+
+    <app from='#101500.02'>
+        <lem>Mars</lem>
+        <rdg wit='#Ro'>maris</rdg>
+    </app>
+
+    <app from='#101500.03'>
+        <lem>armipotens</lem>
+        <rdg wit='#Pa1'><corr/></rdg>
+        <rdg wit='#Pa2'><corr place='ras. margin'/></rdg>
+        <rdg wit='#V1'><del>armi</del> armipotens</rdg>
+    </app>
+
+    <app from='#101501.04'>
+        <lem>viros</lem>
+        <rdg wit='#V1'><add place='sup. lin.'/></rdg>
+    </app>
+
+    <app from='#101507.04'>
+        <lem>citharamque</lem>
+        <rdg wit='#Ro'>Cithereamque <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101520.02'>
+        <lem>assiduo</lem>
+        <rdg wit='V1'><em>iter sed corr.</em></rdg>
+    </app>
+
+
+
     
 
 
