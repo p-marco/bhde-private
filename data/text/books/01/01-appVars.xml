@@ -987,8 +987,128 @@
 
     <app from='#101520.02'>
         <lem>assiduo</lem>
-        <rdg wit='V1'><em>iter sed corr.</em></rdg>
+        <rdg wit='#V1'><em>iter sed corr.</em></rdg>
     </app>
+
+    <app from='#101521.06'>
+        <lem>Biaon</lem>
+        <rdg wit='#Ro'>Bianon</rdg>
+        <rdg wit='#F'><em>exp.</em></rdg>
+    </app>
+
+    <app from='#101530.02'>
+        <lem>Libyae</lem>
+        <rdg wit='#Ro'><corr/></rdg>
+    </app>
+
+    <app from='#101535.02'>
+        <lem>quae</lem>
+        <rdg wit='#W'>que</rdg>
+    </app>
+
+    <app from='#101552.01'>
+        <lem>haec</lem>
+        <rdg wit='#Ro'>nec</rdg>
+    </app>
+
+    <app from='#101555.03' to='#101555.04'>
+        <lem>et Ausonides</lem>
+        <rdg wit='#V1'><corr place='sup.lin.'>et</corr> Ausonides</rdg>
+    </app>
+
+    <app from='#101559.04'>
+        <lem>Tyrrheno</lem>
+        <rdg wit='#Ro'><corr/></rdg>
+    </app>
+
+    <app from='#101563.04'>
+        <lem>calidoque</lem>
+        <rdg wit='#Ro'>callidoque</rdg>
+        <rdg wit='#L #F'>callidoque <em>sed exp.</em></rdg>
+    </app>
+
+    <app from='#101566.03' to='#101566.04'>
+        <lem>tibi tum</lem>
+        <rdg wit='#P'>tibi non</rdg>
+    </app>
+
+    <app from='#101568.01'>
+        <lem>Daedalijs</lem>
+        <rdg wit='#V1'>Daedalais <em>sed exp.</em></rdg>
+    </app>
+
+    <app from='#101582.01'>
+        <lem>surgentis</lem>
+        <rdg wit='#V1'><corr/></rdg>
+    </app>
+
+    <app from='#101596.01'>
+        <lem>sensit</lem>
+        <rdg wit='#V1'><corr/></rdg>
+    </app>
+
+    <app from='#101601.04'>
+        <lem>multos</lem>
+        <rdg wit='#Pa2'><corr place='ras. margin'/></rdg>
+    </app>
+
+    <app from='#101602.06'>
+        <lem>septemplicis</lem>
+        <rdg wit='#F'>setemplicis <corr/></rdg>
+    </app>
+
+    <app from='#101610.02' to='#101610.03'>
+        <lem>at Hesperidum</lem>
+        <rdg wit='#V1'><corr place='sup. lin.'/></rdg>
+    </app>
+
+    <app from='#101615.02' to='#101615.03'>
+        <lem>manumque onerat</lem>
+        <rdg wit='#Ro'> <em>ve scrips. et del. inter manumque et onerat</em></rdg>
+    </app>
+
+    <app from='101622.04'>
+        <lem>premens</lem>
+        <rdg wit='#Pa2'><add place='margin'></rdg>
+    </app>
+
+    <app from='#101629.06'>
+        <lem>iunctis</lem>
+        <rdg wit='#P'>victis</rdg>
+    </app>
+
+    <app from='#101630.06'>
+        <lem>premit</lem>
+        <rdg wit='#Pa2'><em>in ras.</em></rdg>
+    </app>
+
+    <app from='#101631.02' to='101631.05'>
+        <lem>caelum ~ haurire</lem>
+        <rdg wit='#W'>caelum <add>captis</add> potuit haurire</rdg>
+    </app>
+
+    <app from='#101639.03'>
+        <lem>cedensque</lem>
+        <rdg wit='#V1'>cedens</rdg>
+    </app>
+
+    <app from='#101641.03' to='#101641.04'>
+        <lem>armis quae</lem>
+        <rdg wit='#F'>armisque</rdg>
+    </app>
+
+    <app from='#101644.01' to='#101641.02'>
+        <lem>illic ni</lem>
+        <rdg wit='#Ro'><em>scrips. et del. enim inter illinc et ni</em></rdg>
+    </app>
+
+    <app from='#101651.'>
+        <lem></lem>
+        <rdg wit=''></rdg>
+    </app>
+
+
+
 
 
 
