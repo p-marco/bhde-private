@@ -1102,9 +1102,125 @@
         <rdg wit='#Ro'><em>scrips. et del. enim inter illinc et ni</em></rdg>
     </app>
 
-    <app from='#101651.'>
-        <lem></lem>
-        <rdg wit=''></rdg>
+    <app from='#101651.04'>
+        <lem>laevam</lem>
+        <rdg wit='#V2'>laeva <corr/></rdg>
+    </app>
+
+    <app from='#101651.05'>
+        <lem>cita</lem>
+        <rdg wit='#V2'>citra</rdg>
+    </app>
+
+    <app from='#101656.01'>
+        <lem>figitur</lem>
+        <rdg wit='#V1'>fingitur <em>sed exp.</em></rdg>
+    </app>
+
+    <app from='#101662.02'>
+        <lem>Pater</lem>
+        <rdg wit='#Ro'>parte <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101668.04'>
+        <lem>sceleratem</lem>
+        <rdg wit='#Ro'>scelleratam</rdg>
+    </app>
+
+    <app from='#101669.03'>
+        <lem>summe</lem>
+        <rdg wit='#V1'>sume</rdg>
+    </app>
+
+    <app from='#101670.05'>
+        <lem>es</lem>
+        <rdg wit='#V1'><del>est</del><corr>es</corr></rdg>
+    </app>
+
+    <app from='#101676.01'>
+        <lem>Obstupuit</lem>
+        <rdg wit='#Ro'>obstipuit</rdg>
+    </app>
+
+    <app from='#101677.01'>
+        <lem>ecquis</lem>
+        <rdg wit='#V1'>et quis <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101677.02'>
+        <lem>es</lem>
+        <rdg wit='#Ro'><del>est</del><corr>es</corr></rdg>
+    </app>
+
+    <app from='#101682.02'>
+        <lem>equidem</lem>
+        <rdg wit='#W'>aequidem</rdg>
+        <rdg wit='#V1'>aequidem <corr/></rdg>
+    </app>
+
+    <app from='#101682.07'>
+        <lem>aequus</lem>
+        <rdg wit='#P'>equus</rdg>
+    </app>
+
+    <app from='#101682.07'>
+        <lem>inultum</lem>
+        <rdg wit='#O #Ro'>multum</rdg>
+    </app>
+
+    <app from='#101690.07'>
+        <lem>mittis</lem>
+        <rdg wit='#Ro'>mitis</rdg>
+    </app>
+
+    <app from='#101691.01'>
+        <lem>Paeona</lem>
+        <rdg wit='#V1'>Poena</rdg>
+    </app>
+
+    <app from='#101694.02'>
+        <lem>etiam</lem>
+        <rdg wit='#Ro'><em>del et corr.</em></rdg>
+    </app>
+
+    <app from='#101696.02'>
+        <lem>rotae</lem>
+        <rdg wit='#Pa1'>rote</rdg>
+    </app>
+
+    <app from='#101697.01'>
+        <lem>turbabantur</lem>
+        <rdg wit='#F'><del>turbantur</del><corr>turbabantur</corr></rdg>
+    </app>
+
+    <app from='#101698.02'>
+        <lem>fusis</lem>
+        <rdg wit='#Ro'>fixis <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101699.02'>
+        <lem>tuus</lem>
+        <rdg wit='#V1'><corr place='sup. lin.'/></rdg>
+    </app>
+
+    <app from='#101700.06' to='#101700.07'>
+        <lem>ut illum</lem>
+        <rdg wit='#Ro'>at illum <em>ut vid.</em></rdg>
+    </app>
+
+    <app from='#101705.04'>
+        <lem>placidarum</lem>
+        <rdg wit='#St'>pacidarum</rdg>
+    </app>
+
+    <app from='#101710.05'>
+        <lem>limina</lem>
+        <rdg wit='#Ro'>lumina</rdg>
+    </app>
+
+    <app from='#101711.04' to='#101711.05'>
+        <lem>quae sit</lem>
+        <rdg wit='#F'><corr>quae sit</corr><em>ut vid.</em></rdg>
     </app>
 
 
