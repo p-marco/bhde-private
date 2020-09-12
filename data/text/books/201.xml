@@ -4,7 +4,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>BHDE</title>
+            <title>BHDE - Book 1 - Critical Apparatus</title>
             <respStmt>
                 <resp>editor</resp>
                 <name xml:id='psn-a.chisena'>Anna Gabriella Chisena</name>
@@ -25,6 +25,13 @@
 <text>
 
     <body xml:id='201'>	
+
+        <app from='#001'>
+            <lem>Book I</lem>
+            <rdg wit='#R1 #R2 #F #Pa2'>Basinii Parmensis Hesperidos Liber Primus Incipit</rdg>
+            <rdg wit='#P #Pa2 #W'>Basinii Parmensis Hesperidos Liber Primus</rdg>
+            <rdg wit='#V1'>Basinii Parmensis Poetae Hesperidos Liber Primus Incipit feliciter</rdg>
+        </app>
 
         <app from='#101001.01'>
             <lem>Martis</lem>

@@ -1,0 +1,63 @@
+<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+
+
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>BHDE - Book 1 - Autograph variants</title>
+            <respStmt>
+                <resp>editor</resp>
+                <name xml:id='psn-a.chisena'>Anna Gabriella Chisena</name>
+            </respStmt>
+            <respStmt>
+                <resp>transcriber</resp>
+                <name xml:id='psn-m.petolicchio'>Marco Petolicchio</name>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <p>Not ​for ​distribution.​</p>
+        </publicationStmt>
+    </fileDesc>
+</teiHeader>
+
+
+
+<text>
+
+    <body xml:id='301'>
+
+        <app from='#101013.01' to='#101013.03'>
+            <lem>imperiis elata suis</lem>
+            <rdg wit='#R1'>imperio sublata</rdg>
+            <rdg wit='#R2'><corr/></rdg>
+        </app>
+
+        <app from='#101022.01' to='#101022.03'>
+            <lem>discordisque ~ bellum</lem>
+            <rdg wit='#R1 #R2'><unclear>???</unclear></rdg>
+        </app>
+
+        <app from='#101029.06'>
+            <lem>tumescunt</lem>
+            <rdg wit='#R'>fremescunt</rdg>
+            <rdg wit='#R1'><del>fremescunt</del><corr>tumescunt</corr></rdg>
+        </app>
+
+        <app from='#101036.01' to='#101036.06'>
+            <lem>Excidium ~ moveri</lem>
+            <rdg wit='#R'> Excidium terraeque tremor squalentia arva / Defectusque poli solis lunaeque recursus / tumstrepitus caeli longe tum coepta moveri</rdg>
+            <rdg wit='#R1'> Excidium terraeque tremor <del>squalentia arva / Defectusque poli solis lunaeque recursus / tumstrepitus caeli longe</del> tum coepta moveri</rdg>
+        </app>
+
+        <app from='#101039.01' to='#101039.05'>
+            <lem>defectusque ~ recursus</lem>
+            <rdg wit='#F #P #O #Pa1 #Pa2 #V1 #V2 #Ro #W'><em>omitted</em></rdg>
+            <rdg wit='#R2'><add place='margin'>(rectoordine litteris a et b appositis tamen restituto)</add></rdg>
+        </app>
+
+
+
+    </body>
+
+</text>
+</TEI>	

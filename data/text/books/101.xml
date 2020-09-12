@@ -4,7 +4,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>BHDE</title>
+            <title xml:id='001'>BHDE - Book 1 - Critical Text</title>
             <respStmt>
                 <resp>editor</resp>
                 <name xml:id='psn-a.chisena'>Anna Gabriella Chisena</name>
