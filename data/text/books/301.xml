@@ -55,6 +55,76 @@
             <rdg wit='#R2'><add place='margin'>(rectoordine litteris a et b appositis tamen restituto)</add></rdg>
         </app>
 
+        <app from='#101047.02'>
+            <lem>arcessit</lem>
+            <rdg wit='#R1'><corr place='ras.'/></rdg>
+        </app>
+
+        <app from='#101052.01' to='101052.07'>
+            <lem>Italiae ~ oris</lem>
+            <rdg wit='#R' xml:id='301052'>Candida magnanimi capiet tentoria regis</rdg>
+            <rdg wit='#R1'><del from='#301052'/><add>Italiae ~oris</add></rdg>
+        </app>
+
+        <app from='#101053.01' to='#101053.08'>
+            <lem>Ille ~ ipso</lem>
+            <rdg wit='#R1'><em>lit. b add in mg.</em></rdg>
+        </app>
+
+        <app from='#101053' to='#101054'>
+            <lem>ille ~ armis</lem>
+            <rdg wit='R'><add place='interlinear' xml:id='301053'>Quanvis ille sui suspectet praelia belli</add></rdg>
+            <rdg wit='R1'><del from='#301053'/></rdg>
+        </app>
+
+        <app from='#101062' to='#101063'>
+            <lem>Olli ~ ventis</lem>
+            <rdg wit='#R'><add place='interlinear' xml:id='301062'>Iamque aspectabat montis, atlanta nivalem / Qui caelo caput atque pedestellure recondit / Appennine tuum caput, umbrosumque taburnum / Tum vesulum atque alios ventosa cacumina montis /Magnaque cerulei maris aequora; littora circum / Spumea tum varia populos tellure potitos</add></rdg>
+            <rdg wit='#R1'><del from='#301062'/></rdg>
+        </app>
+
+        <app from='#101069.01' to='#101070.08'>
+            <lem>duc ~ Iuno</lem>
+            <rdg wit='#R'><add place='interlinear' xml:id='301069'>et magnanimi capiens tentoria regis <unclear>????</unclear></rdg>
+            <rdg wit='#R1'><del from='#301069'/>
+        </app>
+
+        <app from='#101075.07'>
+            <lem>retrectat</lem>
+            <rdg wit='#R #St'>retractat</rdg>
+            <rdg wit='#R1'><em>a exp. et corr.</em></rdg>
+        </app>
+
+        <app from='#101091.03' to='#101091.06'>
+            <lem>tumulo sublimis ab alto</lem>
+            <rdg wit='#R' xml:id='301091'>patriis sublimis in armis</rdg>
+            <rdg wit='#R1'><del from='#301091'/><corr place='margin'>tumulo sublimis ab alto</corr></rdg>
+        </app>
+
+        <app from='#101092.02'>
+            <lem>Eurybromumque</lem>
+            <rdg wit='#R'>Eurytonumque</rdg>
+            <rdg wit='#R1'>Eury<del>tonum</del><add place='sup. lin.'>bromum</add>que</rdg>
+        </app>
+
+        <app from='#101092.06'>
+            <lem>mandat</lem>
+            <rdg wit='#R' xml:id='301092'>fatur</rdg>
+            <rdg wit='#R1'><del from='#301092'/><corr place='margin'>mandat</corr></rdg>
+        </app>
+
+        <app from='#101094.01' to='#101094.02'>
+            <lem>Alphonso et</lem>
+            <rdg wit='#R' xml:id='301094'>Et regi</rdg>
+            <rdg wit='#R1'><corr place='margin'>Alphonso et</corr></rdg>
+        </app>
+
+        <app from='#101095.06'>
+            <lem>sonorum</lem>
+            <rdg wit='#R' xml:id='301095'>profundum</rdg>
+            <rdg wit='#R1'><del from='#301095'/><corr place='margin'>sonorum</corr></rdg>
+        </app>
+
 
 
     </body>
