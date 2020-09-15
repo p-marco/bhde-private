@@ -125,6 +125,48 @@
             <rdg wit='#R1'><del from='#301095'/><corr place='margin'>sonorum</corr></rdg>
         </app>
 
+        <app from='#101111.01' to='#101111.06'>
+            <lem>aequoris ~ montis</lem>
+            <rdg wit='#R' xml:id='301111'>Et larga aerios lustrabat lampade montis</rdg>
+            <rdg wit='#R1'><del>Et larga aerios</del> <corr place='margin'>Aequoris et</corr><add place='inter lineas'>summos</add></rdg>
+            <rdg wit='#R2'><add place='infra'>summos</add></rdg>
+        </app>
+
+        <app from='#101112.02' to='#101112.03'>
+            <lem>ac magni</lem>
+            <rdg wit='#R' xml:id='301112'>et magni</rdg>
+            <rdg wit='#R1'><del from='#301112'/><corr>ac magni</corr></rdg>
+        </app>
+
+        <app from='#101119' to='#101120'>
+            <lem>ipse ~ habenis</lem>
+            <rdg wit='#R'><add place='interlinear'>Vos quicumque oculis mortalia cernitis aequis / dii precor italiaecustodes maxima semper / Numina: romuleae quianam favistis et urbem / et populo et fautrix trabeati Vesta Quirini /Hanc rabiem iam nunc templis avertite vestris / et pacem ausonijs solam quam poscimus oris / Reddite: & Alphonsumvestra decedere terra / Ne prohibete: procul pelago dare vela profundo / Acceleret profugusque nefas hinc triste reportet <w xml:id='301119.01'>Romueleae</w></add></rdg>
+            <rdg wit='#R1'><del from='#301119.01'/><corr>romuleam</corr></rdg>
+        </app>
+
+        <app from='#101121.01' to='#101121.05'>
+            <lem>exploratatque ~ locosque</lem>
+            <rdg wit='#R'>exploratatque ~ <w xml:id='301121'>locos</w></rdg>
+            <rdg wit='#R1'><del from='#301121'/><corr>locosque</corr></rdg>
+        </app>
+
+        <app from='#101127.03' to='#101127.04'>
+            <lem>et fremitum</lem>
+            <rdg wit='#R'><w xml:id='301127.03'>ac</w> fremitum</rdg>
+            <rdg wit='#R1'><del from='#301127.03'/><corr place='sup. lin.'>et</corr></rdg>
+        </app>
+
+        <app from='#101127.05' to='#101127.06'>
+            <lem>ter dentibus</lem>
+            <rdg wit='#R'><w xml:id='301127.05'>iam</w>dentibus</rdg>
+            <rdg wit='#R1'><del from='#301127.05'/><corr place='sup. lin.'>et</corr></rdg>
+        </app>
+
+        <app from='#101135.01'>
+            <lem>Illi</lem>
+            <rdg wit='#R'><w xml:id='301135.01'>Ipsi</w></rdg>
+            <rdg wit='#R1'><del from='#301135.01'/><add place='margin'>Illi</add></rdg>
+        </app>
 
 
     </body>
