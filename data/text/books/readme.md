@@ -12,7 +12,7 @@ Files nomenclature follows the scheme *XBB.xml* where:
     - 3 = author variants
     - 4 = et similia
     - 5 = apparatus fontium
-    - 6 = tbd
+    - 6 = commentary
     - 7 = translation 1
     - 8 = translation 2  
     - 9 = tbd

@@ -168,6 +168,61 @@
             <rdg wit='#R1'><del from='#301135.01'/><add place='margin'>Illi</add></rdg>
         </app>
 
+        <app from='#101154.01' to='#101154.02'>
+            <lem>Haud secus</lem>
+            <rdg wit='#R'><w xml:id='301154.01'>nec</w> secus</rdg>
+            <rdg wit='#R1'><del from='#301154.01'/><corr place='sup. lin.'>haud</corr></rdg>
+        </app>
+
+        <app from='#101160.02'>
+            <lem>tolluntur</lem>
+            <rdg wit='#R'><w xml:id='301160.02'>glomeratur</w></rdg>
+            <rdg wit='#R1'><del from='#301160.02'/><corr place='sup. lin.'>tolluntur</corr></rdg>
+        </app>
+
+        <app from='#101161.07'>
+            <lem>undique</lem>
+            <rdg wit='R'><w xml:id='301161.07'>milia</w></rdg>
+            <rdg wit='R1'><del from='#301161.07'/><corr place='sup. lin.'>undique</corr></rdg>
+        </app>
+
+        <app from='#101162.07'>
+            <lem>flumen</lem>
+            <rdg wit='#R'><w xml:id='301162.07'>murmur</w></rdg>
+            <rdg wit='R1'><del from='#301162.07'/><corr place='sup. lin.' xml:id='#301162.07.a'>flumina</corr></rdg>
+            <rdg wit='R2'><del from='#301162.07.a'/><add place='sup. lin.' xml:id='#301162.07.b'>flumen</corr></rdg>
+        </app>
+
+        <app from='#101167.07'>
+            <lem>undique</lem>
+            <rdg wit='#R1'><corr/></rdg>
+        </app>
+
+        <app from='#101190' to='#101191'>
+            <lem>et ~ carae</lem>
+            <rdg wit='#R'><add place='inter lin.'><span xml:id='301190'>Cernis ut ipse super nostri sit prole Aeneae</span></rdg>
+            <rdg wit='#R1'><del from='#301190'/><corr place='margin'> Stet nunc solus progente Latina</corr></rdg>
+        </app>
+
+        <app from='#101193.05' to='#101193.06'>
+            <lem>ut inclytus</lem>
+            <rdg wit='#R'><w xml:id='301193.05'>et</w> inclitus</rdg>
+            <rdg wit='#R1'><del from='#301193.05'/>ut inclitus</rdg>
+        </app>
+
+        <app from='#101206.04'>
+            <lem>tardis</lem>
+            <rdg wit='#R'><w xml:id='301206.04'>longis</w></rdg>
+            <rdg wit='#R1'><del from='#301206.04'/><add place='sup. lin.'> tardis</add></rdg>
+        </app>
+
+        <app from='#101214.02'>
+            <lem>reficis</lem>
+            <rdg wit='#R'><w xml:id='301214.02'>redimis</w></rdg>
+            <rdg wit='#R1'><del from='#301214.02'/><corr place='sup. lin.'>reficis</corr></rdg>
+        </app>
+
+
 
     </body>
 
