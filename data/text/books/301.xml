@@ -222,7 +222,112 @@
             <rdg wit='#R1'><del from='#301214.02'/><corr place='sup. lin.'>reficis</corr></rdg>
         </app>
 
+        <app from='#101220.05'>
+            <lem>simul</lem>
+            <rdg wit='#R'><w xml:id='301220.05'>prior</w></rdg>
+            <rdg wit='#R1'><del from='#301220.05'/><corr place='sup. lin.'>simul</corr></rdg>
+        </app>
 
+        <app from='#101221.04'>
+            <lem>cladis</lem>
+            <rdg wit='#R'><w xml:id='301221.04'>acies</rdg>
+            <rdg wit='#R1'><del from='#301221.04'/><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101224.04'>
+            <lem>serae</lem>
+            <rdg wit='#R'><w xml:id='301224.04'>tardae</w></rdg>
+            <rdg wit='#R1'><del from='#301221.04'/><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101233.07'>
+            <lem>lapsu</lem>
+            <rdg wit='#R'><w xml:id='301233.07'>cursu</w></rdg>
+            <rdg wit='#R1'><del from='#301233.07'/><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101233' to='#101234'>
+            <lem>castra ~ edentis</lem>
+            <rdg wit='#R1'><span xml:id='301233'>Stat clypeoclypeus galeae galea, atque viro vir </span></rdg>
+            <rdg wit='#R2'><del from='#301233'/></rdg>
+        </app>
+
+        <app from='#101235.03' to='#101235.04'>
+            <lem>hos insedisse</lem>
+            <rdg wit='#R'><w xml:id='301235.03'>alios</w> <w xml:id='301235.04'>astare</w></rdg>
+            <rdg wit='#R1'><del from='#301235.03' to='#301235.04'/><corr place='margin'>hos insedisse</corr></rdg>
+        </app>
+
+        <app from='#101238.07'>
+            <lem>usque</lem>
+            <rdg wit='#R'><w xml:id='301238.07'>ipse</w></rdg>
+            <rdg wit='#R1'><del from='#301238.07'/><corr place='sup. lin.'></rdg>
+        </app>
+
+        <app from='#101240.03' to='#101240.04'>
+            <lem>validusque levamina</lem>
+            <rdg wit='#R'><w xml:id='301240.03'>riguisque</w> <w xml:id='301240.04'>iuvamina</w></rdg>
+            <rdg wit='#R1'><del from='#301240.03' to='#301240.04'/><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101250.02'>
+            <lem>moveant</lem>
+            <rdg wit='#R'>moeant</rdg>
+            <rdg wit='#R1'><corr>moevant</corr></rdg>
+        </app>
+
+        <app from='#101254.05'>
+            <lem>Pandulphius</lem>
+            <rdg wit='#R1'>Panfulfius</rdg>
+            <rdg wit='#R2'><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101263'>
+            <lem>agnoscitque ~ precatur</lem>
+            <rdg wit='#R'>gnoscitque Iovem  <span xml:id='301263'>fortem que in sydera dextram / tendit etaetherei suspectat lumen olympi</span></rdg>
+            <rdg wit='R1'><del from='#301263'/><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101266.04' to='#101266.05'>
+            <lem>nam fortibus</lem>
+            <rdg wit='#R'><w xml:id='301266.04'>iuvenilibus</w></rdg>
+            <rdg wit='#R1'><del from='#301266.04'/><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101268'>
+            <lem>Alphonso ~ armis</lem>
+            <rdg wit='#R'><lacuna from='#101268.01' to='#101268.06'/></rdg>
+            <rdg wit='R1'><add place='margin'>Alphonso, iniustis Italos qui provocat armis</add> </rdg>
+        </app>
+
+        <app from='#101271.01' to='#101271.02'>
+            <lem>Italiae quicunque</lem>
+            <rdg wit='#R'>???</rdg>
+        </app>
+        
+        <app from='#101285.02'>
+            <lem>sonitus</lem>
+            <rdg wit='#R'><w xml:id='301285.02'>subitae</w></rdg>
+            <rdg wit='#R1'><del from='#301285.02'/><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101285.06'>
+            <lem>vasti</lem>
+            <rdg wit='#R'><w xml:id='301285.06'>voces</w></rdg>
+            <rdg wit='#R1'><del from='#301285.06'/><corr place='margin'>vasti</corr></rdg>
+        </app>
+
+        <app from='#101300.03'>
+            <lem>magni</lem>
+            <rdg wit='#R'><w xml:id='301300.03'>pulchri</w></rdg>
+            <rdg wit='#R1'><del from='#301330.03'/><add place='sup. lin.'> magni</add></rdg>
+        </app>
+
+        <app from='#101300.05'>
+            <lem>ponderis</lem>
+            <rdg wit='#R'><w xml:id='301300.03'>corporis</w></rdg>
+            <rdg wit='#R1'><del from='#301300.03'/><add place='sup. lin.'>ponderis</add></rdg>
+        </app>
 
     </body>
 
