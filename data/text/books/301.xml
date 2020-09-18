@@ -329,6 +329,46 @@
             <rdg wit='#R1'><del from='#301300.03'/><add place='sup. lin.'>ponderis</add></rdg>
         </app>
 
+        <app from='#101319.03'>
+            <lem>animos</lem>
+            <rdg wit='#R1'><corr/></rdg>
+        </app>
+        <app from='#101323.02'>
+            <lem>illos</lem>
+            <rdg wit='#R'><w xml:id='301323.02'>omnis</w></rdg>
+            <rdg wit='#R1'><del from='#301323.02'/><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101345.03'>
+            <lem>vanis</lem>
+            <rdg wit='#R'><w xml:id='301345.03'>scaevis</w></rdg>
+            <rdg wit='#R1'><del from='#301345.03'/><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101365.01' to='#101365.07'>
+            <lem>Italia</lem>
+            <rdg wit='#R'>Italia? <span xml:id='301365'>euganeus liguri crudelia saepe / bella gerit</span> patrijs unus Sismundus in armis</rdg>
+            <rdg wit='#R'><del from='#301365'/><add place='sup. lin.'>an patriis</add></rdg>
+        </app>
+
+        <app from='#101366.04'>
+            <lem>nec</lem>
+            <rdg wit='#R'><w xml:id='301366.04'>non</w></rdg>
+            <rdg wit='#R1'><del from='#301366.04'/><corr place='sup. lin.'>nec</corr></rdg>
+        </app>
+
+        <app from='#101379' to='#101424'>
+            <lem></lem>
+            <rdg wit='#R'><lacuna from='#101379' to='#101424'/></rdg>
+        </app>
+
+        <app from=''>
+            <lem></lem>
+            <rdg wit=''></rdg>
+        </app>
+
+
+
     </body>
 
 </text>
