@@ -362,9 +362,89 @@
             <rdg wit='#R'><lacuna from='#101379' to='#101424'/></rdg>
         </app>
 
-        <app from=''>
+        <app from='#101442' to='#101443'>
             <lem></lem>
-            <rdg wit=''></rdg>
+            <rdg wit='#R'><add xml:id='301442' place='interlinear'>Quae iubet hic animus dulcis efferre??? per auras</add></rdg>
+            <rdg wit='#R1'><del from='#301442'/></rdg>
+        </app>
+
+        <app from='#101450' to='#10451'>
+            <lem></lem>
+            <rdg wit='#R'><add xml:id='301450' place='interlinear'> Unusutrique pater rex omnibus ̇ omnibus aequii</add></rdg>
+            <rdg wit='#R1'><del from='#301540'/></rdg>
+        </app>
+
+        <app from='#101454.07'>
+            <lem>sub</lem>
+            <rdg wit='#R'><w xml:id='301454.07'>per</w></rdg>
+            <rdg wit='#R1'><del from='301454.07'/><corr place='sub sup. lin.'>sub</corr></rdg>
+        </app>
+
+        <app from='#101457.02'>
+            <lem>Ausoniique</lem>
+            <rdg wit='#R'>Italique</rdg>
+            <rdg wit='#R1'><add place='sup. lin'>Ausoniique</add></rdg>
+        </app>
+
+        <app from='#101464.01'>
+            <lem>bella</lem>
+            <rdg wit='#R1'><lacuna>B</lacuna><corr place='margin'>B</corr>ella</rdg>
+        </app>
+
+        <app from='#101465.06'>
+            <lem>humo</lem>
+            <rdg wit='#R'>humi</rdg>
+        </app>
+
+        <app from='#101467.06'>
+            <lem>opimae</lem>
+            <rdg wit='#R'><w xml:id='301467.06'>amenae</w></rdg>
+            <rdg wit='#R1'><del from='#301467.06'/><add place='sup. lin.'>opimae</add></rdg>
+        </app>
+
+        <app from='#101471.04'>
+            <lem>meliore</lem>
+            <rdg wit='#R #R1'><w xml:id='301471.04'>meliori</w></rdg>
+            <rdg wit='#St'><corr>meliore</corr></rdg>
+        </app>
+
+        <app from='#101480.05' to='#101480.07'>
+            <lem>te te arcana</lem>
+            <rdg wit='#R'>te secreta</rdg>
+            <rdg wit='#R1'><add place='sup. lin.'>te te arcana</add></rdg>
+        </app>
+
+        <app from='#101482.03'>
+            <lem>aëriam</lem>
+            <rdg wit='#R'>variam</rdg>
+            <rdg wit='#R1'><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101485' to='#101486'>
+            <lem></lem>
+            <rdg wit='#R'><span place='interlinear' xml:id='301485'>Optime mi coniunx animo carissime nostro</span></rdg>
+            <rdg wit='#R1'><del from='#301485'/></rdg>
+        </app>
+
+        <app from='#101486.05'>
+            <lem>arcana</lem>
+            <rdg wit='#R'>secreta</rdg>
+            <rdg wit='#R1'><corr place='sup. lin.'/></rdg>
+        </app>
+
+        <app from='#101491' to='#101492'>
+            <lem></lem>
+            <rdg wit='#R'><add xml:id='301491' place='interlinear'>Quare si sapimus ne nosdiscordia flectat / Ullius ipse mihi tibi nos parere velimus / Dixerat. </add></rdg>
+            <rdg wit='#R1'><del from='#301491'/><add place='margin'>Iupiter huic contra tuame tua gratia coniunx / flexit et aeterno mihi te devinxit amore <em>(recto ordine signis appositis tamen restituto ??)</em></add></rdg>
+        </app>
+        <app from='#101492' to='#101493'>
+            <lem>Iuppiter ~ amore</lem>
+            <rdg wit='#R2'><em> scrips. in mg. inf. (recto ordine verborum litteris a et b appositis tamen restituto)</em></rdg>
+        </app>
+
+        <app from='#101497.01' to='#101497.07'>
+            <lem>Illa ~ revisit</lem>
+            <rdg wit='#R2'><em>scrips. in mg. inf. (recto ordine verborum litteris a,b et cappositis tamen restituto</em></rdg>
         </app>
 
 
